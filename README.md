@@ -1,5 +1,6 @@
 # CreatAssetTool
 便捷创建asset文件的编辑器拓展插件
+（项目里有示例视频 可以参考下）
 
 1 创建自己的资源类 格式参考项目的SpriteAsset脚本
 2 MyTool/CreatAsset 打开创建窗口
